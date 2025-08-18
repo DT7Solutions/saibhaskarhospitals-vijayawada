@@ -806,3 +806,9 @@ blockquote:before {
     border-top-left-radius: 0.25rem;
     border-top-right-radius: 0.25rem;
 }
+.vs-service-wrapper .service-bar {
+    background-color: transparent;
+}
+.vs-service-wrapper .service-bar .row {
+    display: none;
+}
